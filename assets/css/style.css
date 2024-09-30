@@ -74,6 +74,21 @@
         font-size: 20px;
         color: #00b7c2;
     }
+    table.unstyledTable {
+    }
+    table.unstyledTable td, table.unstyledTable th {
+      border: 3px solid #AAAAAA;
+    }
+    table.unstyledTable td, table.unstyledTable th {
+      padding: 3px 9px;
+    }
+    table.unstyledTable thead {
+      background: #DDDDDD;
+    }
+    table.unstyledTable thead th {
+      font-size: 19px;
+      font-weight: bold;
+    }
     /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
